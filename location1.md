@@ -6,7 +6,7 @@ tags: [maps, social sciences, etc.]
 layout : "default"
 ---
 
-# HI THERE 
+# Bronzville
 ## map information test page
 
 ### Demographics
