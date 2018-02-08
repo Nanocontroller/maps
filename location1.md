@@ -33,8 +33,8 @@ As of the estimated census of 2015, the city's population stands at 183,887 with
 
 Historical population
 ----------------------
-Census | Pop.	|	%±
------------------------
+Census | Pop.	|	%± |
+-------|--------|------|
 1850 |	2,734	|	—
 1860 |	2,734	|	0.0%
 1870 | 4,905	 | 	79.4%
